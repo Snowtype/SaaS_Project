@@ -2,7 +2,7 @@ Title: tagline of your project, such as "Slack: Where work happens"
       Details:
           Team Members:
             - Daniel Kim (dk3506)
-            - 
+            - Minsuk Kim (mk4434)
             -
             - 
             
