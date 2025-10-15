@@ -3,7 +3,7 @@ Title: NomNom: Eat smart. Waste less. NomNom more.
           Team Members:
             - Daniel Kim (dk3506)
             - Rebecca Zhao (rz2763)
-            -
+            - Minsuk Kim (mk4434)
             - Yang-Jung (Eric) Chen (yc4670)
             
       
@@ -20,7 +20,10 @@ Title: NomNom: Eat smart. Waste less. NomNom more.
             leading to more food waste and expense.
 
           - What your SaaS does to address the pain points
-            -
+            - To solve these problems, NomNom provides an AI-powered grocery management system with real-time tracking, smart reminders, and personalized recipe suggestions. Users can scan barcodes or upload receipts to automatically log purchases and track expiration dates. The app maintains a live inventory, notifies users before items expire, and recommends healthy recipes that use what’s already at home—helping reduce food waste, save time, and support better eating habits.
+            - The app maintains a live inventory, notifies users before items expire, and recommends healthy recipes that use what’s already at home.
+            - Over time, NomNom learns each user’s habits and suggests grocery plans that reduce waste and support healthier eating.
+
           - Why is your SaaS unique/different from the solutions in the market
             - NomNom stands out by combining food tracking, health management, and sustainability in one platform. 
             While existing apps mainly focus on expiration reminders or grocery lists, NomNom offers a smarter, all-in-one experience. 
