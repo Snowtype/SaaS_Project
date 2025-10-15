@@ -20,11 +20,12 @@ Title: NomNom,
             leading to more food waste and expense.
 
           - What your SaaS does to address the pain points
-            - To solve these issues, our solution offers smart grocery management system that combines real-time tracking, automated reminders. First, it allows users to easily log their grocery purchases through barcode scanning or photo-based receipt upload. Once items are recorded, the system automatically tracks expiration dates and categorizes them by food type. Users can then receive timely notifications before items expire, helping them reduce waste and plan meals more efficiently.
+            - To solve these issues, our solution offers smart grocery management system that combines real-time tracking, automated reminders. 
+              First, it allows users to easily log their grocery purchases through barcode scanning or photo-based receipt upload. Once items are                    recorded, the system automatically tracks expiration dates and categorizes them by food type. Users can then receive timely                            notifications before items expire, helping them reduce waste and plan meals more efficiently.
 
-Second, the app maintains a dynamic inventory of what users currently have at home. When planning their next grocery trip, they can instantly check what’s already in the fridge and what’s running low, which prevents both duplicate purchases and forgotten essentials.
+            Second, the app maintains a dynamic inventory of what users currently have at home. When planning their next grocery trip, they can                    instantly check what’s already in the fridge and what’s running low, which prevents both duplicate purchases and forgotten essentials.
 
-Finally, it uses AI-driven recipe recommendations that match leftover or soon-to-expire ingredients with healthy recipes. Instead of leaving half-used ingredients to spoil, users can discover creative ways to repurpose them into balanced meals. Over time, the system learns personal dietary habits and preferences and it offers customized recipe and meal suggestions aligned with each user’s health goals.
+            Finally, it uses AI-driven recipe recommendations that match leftover or soon-to-expire ingredients with healthy recipes. Instead of                   leaving half-used ingredients to spoil, users can discover creative ways to repurpose them into balanced meals. Over time, the system                  learns personal dietary habits and preferences and it offers customized recipe and meal suggestions aligned with each user’s health goals.
 
 ⸻
 
